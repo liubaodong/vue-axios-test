@@ -5,8 +5,7 @@
 </template>
 
 <script>
-import TabbarItem from "@/components/tabbar/tabbar-item";
-import { Tabbar, TabItem } from "mint-ui";
+import TabbarItem from "components/common/tabbar/tabbar-item";
 
 export default {
     name: "",

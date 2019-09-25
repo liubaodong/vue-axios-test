@@ -9,10 +9,8 @@
 export default {
   name: 'home',
   components: {
-
   },
   created() {
-      console.log(this.$refs)
   }
 }
 </script>

@@ -1,0 +1,18 @@
+@import './normalize.css';
+
+/* 获取根元素 */
+
+:root {
+    --color-text: #666;
+    --color-high-text: #ff5577;
+    --color-tint: #ff8199;
+    --color-background: #fff;
+    --font-size: 14px;
+    --large-size: 50px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    color: var(--color-text)
+}
